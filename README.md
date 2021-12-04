@@ -1,6 +1,7 @@
 # http_test_app
 
 A new Flutter project.
+GET/POST API test App - тренировка по GET/POST запросам
 
 ## Getting Started
 
